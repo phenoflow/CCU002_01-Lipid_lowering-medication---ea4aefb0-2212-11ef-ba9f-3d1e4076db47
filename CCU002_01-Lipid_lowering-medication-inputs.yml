@@ -1,0 +1,126 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-colestipol---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-100mg---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-400mg---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-rosuvastatin---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-625mg---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-capsule---primary.py
+inputModule8:
+  class: File
+  path: python/nicotinic-ccu002_01-lipid_lowering-medication---primary.py
+inputModule9:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-180mg---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-200mg---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-colestyramine---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-micro---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-300mg---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-150mg---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-colestid---primary.py
+inputModule16:
+  class: File
+  path: python/chewable-ccu002_01-lipid_lowering-medication---primary.py
+inputModule17:
+  class: File
+  path: python/docosahexaenoic-ccu002_01-lipid_lowering-medication---primary.py
+inputModule18:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-160mg---primary.py
+inputModule19:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-alirocumab---primary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-crestor---primary.py
+inputModule21:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-simvador---primary.py
+inputModule22:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-bezalip---primary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-600mg---primary.py
+inputModule24:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-bezafibrate---primary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-questran---primary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-lipostat---primary.py
+inputModule27:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-syringe---primary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-pravastatin---primary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-solution---primary.py
+inputModule30:
+  class: File
+  path: python/bempedoic-ccu002_01-lipid_lowering-medication---primary.py
+inputModule31:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-fluvastatin---primary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-250mg---primary.py
+inputModule33:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-repatha---primary.py
+inputModule34:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-suspension---primary.py
+inputModule35:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-praluent---primary.py
+inputModule36:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-lipitor---primary.py
+inputModule37:
+  class: File
+  path: python/lopid-ccu002_01-lipid_lowering-medication---primary.py
+inputModule38:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-145mg---primary.py
+inputModule39:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-evolocumab---primary.py
+inputModule40:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-zocor---primary.py
+inputModule41:
+  class: File
+  path: python/ccu002_01-lipid_lowering-medication-lescol---primary.py
+inputModule42:
+  class: File
+  path: python/output-cases.py
